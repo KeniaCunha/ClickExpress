@@ -1,27 +1,16 @@
 # ClickExpress
 
-`CURSO:` Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA` Projeto: Desenvolvimento de uma Aplicação Interativa 
-
-`SEMESTRE` Eixo 2 Turma 01 - 2022/1
+![Homepage ClickExpress](docs/img/ClickEspress.JPG)
+ 
+>Projeto desenvolvido no curso de Análise e Desenvolvimento de Sistemas - Eixo 2 da PUC MINAS, pelos integrantes Kênia Maria da Cunha, Sabrina Goncalves de Andrade, Thamara Machado Rocha e Werlon Elem Bicalho de Oliveira e sob orientação de Rosilane Mota.
 
 O objetivo do projeto é a criação de uma aplicação, que proporcione uma melhor experiência e facilidade em encontrar pessoas que prestam os serviços de carreto e mudanças. 
 
-## Integrantes
 
-* Kênia Maria Da Cunha
-* Sabrina Goncalves De Andrade
-* Thamara Machado Rocha
-* Werlon Elem Bicalho De Oliveira
+# Apresentação
 
-## Orientador
-
-* Rosilane Mota
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+<li><a href="presentation/README.md"> Vídeo de apresentaçao da solução</a></li>
 
 # Documentação
 
@@ -41,6 +30,3 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-# Apresentação
-
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
